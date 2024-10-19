@@ -1,6 +1,6 @@
 # AI-Powered Customer Support Agent
 
-This project implements an AI-powered customer support agent using Python. The agent categorizes customer queries, analyzes sentiment, and generates appropriate responses based on the query's category and sentiment. It leverages Google's Generative AI (gemini-1.5-flash model) through the `langchain-google-genai` integration and uses `LangGraph` and `LangChain` to manage the workflow
+This project implements an AI-powered customer support agent using Python. The agent categorizes customer queries, analyzes sentiment, and generates appropriate responses based on the query's category and sentiment. It leverages Google's Generative AI (gemini-1.5-flash model) through the `langchain-google-genai` integration and uses `LangGraph` and `LangChain` to manage the workflow. 
 
 ## Table of Contents
 - [Features](#features)
